@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siddharth Simeidya @Siddharth2412
-- 👀 I’m interested in Software Devekpment Programming and Data Science
+- 👀 I’m interested in Software Development Programming and Data Science
 - 🌱 I’m currently learning Data Science in TU Dortmund
 - 📫 How to reach me you can connect me on linkedin https://www.linkedin.com/in/siddharth-simediya-1137b2156/
 
